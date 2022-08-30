@@ -1,1 +1,0 @@
-var main=function(n){"use strict";return n.handleError=async function(n,e){n.agents.logging.error(e.message)},n.run=async function(n){const e=await n.agents.sessionStorage.get("queryStock");n.agents.result.finalize({resp:e})},Object.defineProperty(n,"__esModule",{value:!0}),n}({});globalThis.run=main.run,globalThis.handleError=main.handleError;
