@@ -1,0 +1,8 @@
+method: POST
+mode: Sync
+encapsulation: true
+name: YH_YahooAPI
+path: /YH/yahoo/api
+dataProcessPids:
+  - pid: 00000000-0000-0000-0000-000000000000
+    revision: latest
