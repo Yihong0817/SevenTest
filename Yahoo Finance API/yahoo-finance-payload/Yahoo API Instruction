@@ -1,0 +1,4 @@
+region could be US, AU, CA, FR, DE, HK, IT, ES, GB, IN
+symbol: please check https://financeapi.net
+
+From time to time, "X-API-KEY" will expire. Please register/log in to get a new one and make a change in the generic logic accordingly. 
